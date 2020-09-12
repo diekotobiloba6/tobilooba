@@ -1,0 +1,77 @@
+(A little task)
+
+A tribute Page For Chadwick Boseman(Black Panther)
+
+create an index.html file
+create a css file
+link the css file to the html file using the external method
+
+
+Here is the content..
+
+An image of chadwick Boseman
+
+1) You have to cherish things in a different way when you know the    clock is ticking, you are under pressure.
+quote.. should be in paragraph
+
+List his history
+
+--29 November 1976
+--Chadwick Aaron Boseman was an American actor
+
+--2000
+--He played several historical figures
+
+--2003
+--Boseman got his first television role in 2003 in an episode of Third Watch
+
+--2008
+--he played a recurring role on the television series Lincoln Heights 
+
+--2010
+--He landed a regular role in 2010 in another television series, Persons Unknown
+
+--2013
+--Boseman had his first starring role in the 2013 film 42, in which he portrayed baseball pioneer and star Jackie Robinson.
+
+--2016
+--he began portraying the Marvel Comics character T'Challa / Black Panther, with Captain America: Civil War being his first film in a five-picture deal with Marvel
+
+--2018
+--He headlined Black Panther in 2018 which focused on the character and his home country of Wakanda in Africa. The film opened to great anticipation, becoming one of the highest-grossing films of the year in the United States
+
+--Should be also be paragraph with years in bold format.
+
+
+--IN A NUTSHELL (SUMMARY)
+
+--A small image of chadwick bose man
+
+--Born
+--Chadwick Aaron Boseman
+--November 29, 1976
+--South Carolina, United States
+
+--Died
+--28 August 2020
+--Los Angeles, California, U.S
+
+--Occupation
+--American actor
+
+--Cause of death
+--colon cancer
+
+-use table tags to create the nutshell/summary
+
+
+--“When you are deciding on the next steps, next jobs, next careers, further education, you should rather find purpose than a job or a career. Purpose crosses disciplines. Purpose is an essential element of you.”
+
+--Use a paragraph for the quotes
+
+--Do read more about this impeccable personality <a href="https://en.wikipedia.org/wiki/Chadwick_Boseman">here.
+
+--Use the paragraph tag and make the text here a link to another page..
+
+
+
