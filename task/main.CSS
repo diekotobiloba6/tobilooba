@@ -1,0 +1,66 @@
+.center{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+
+}
+
+p{
+    text-align: center;
+}
+
+.pfont{font-family: 'Roboto Slab', serif;
+
+}
+.spancolor{
+    background-color: white;
+
+}
+
+
+.container .content { position: bottom;
+    bottom: 0;
+    background: rgb(0, 0, 0); /* Fallback color */
+    background: rgba(221, 12, 12, 0.5); /* Black background with 0.5 opacity */
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+
+}
+ th, td {
+    border:2px solid tomato; 
+    padding:10px; text-align:left; 
+    color: white;
+}
+
+.name {
+    background-color: tomato;
+    color: white;
+    border: solid black;
+    margin: 10px;
+    padding: 10px;
+
+
+
+}
+
+.note{
+    font-size: 120%;
+    color:black;
+
+}
+
+#Chadwick{
+    background-color: cornflowerblue;
+    color: black;
+    text-align: center;
+    font-size: 200%;
+    padding: 30px;
+}
+
+ 
+
+
+
+
+
